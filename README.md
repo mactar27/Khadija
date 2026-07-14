@@ -1,4 +1,4 @@
-# Le site d'Astou
+# Le site de Khadija
 
 Un site immersif, romantique et privé — prêt à héberger et partager par lien.
 
@@ -9,7 +9,7 @@ Double-clique simplement sur `index.html`. Ça ouvre déjà tout : le site march
 Le plus simple et gratuit :
 1. Va sur **https://app.netlify.com/drop**
 2. Glisse-dépose tout le dossier `site` (celui qui contient `index.html` et `images/`)
-3. Netlify te donne un lien du type `https://xxx.netlify.app` — envoie ce lien à Astou.
+3. Netlify te donne un lien du type `https://xxx.netlify.app` — envoie ce lien à Khadija.
    Personne ne le trouvera sans le lien exact (pas indexé sur Google).
 
 ## Pour personnaliser les textes
@@ -25,3 +25,4 @@ Ouvre `index.html` avec un éditeur de texte (Notes, VS Code...) et cherche les 
    `<!-- <audio id="bgAudio" loop src="audio/song.mp3"></audio> -->`
 
 Bonne surprise à préparer. ♥
+
